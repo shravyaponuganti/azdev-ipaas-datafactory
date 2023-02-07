@@ -1,10 +1,5 @@
 {
 	"name": "adf-ipaas-dev-euno-integration-01",
-	"properties": {
-		"globalConfigurations": {
-			"PipelineBillingEnabled": "true"
-		}
-	},
 	"location": "northeurope",
 	"identity": {
 		"type": "SystemAssigned",
