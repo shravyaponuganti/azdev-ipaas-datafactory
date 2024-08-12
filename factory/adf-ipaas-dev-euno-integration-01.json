@@ -1,6 +1,7 @@
 {
 	"name": "adf-ipaas-dev-euno-integration-01",
 	"location": "northeurope",
+	
 	"identity": {
 		"type": "SystemAssigned",
 		"principalId": "983e56fe-9223-4ad9-b8fe-2aaba8280cff",
